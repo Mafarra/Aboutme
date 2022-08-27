@@ -2,7 +2,11 @@
 <h1 align="center">Hi 👋, I'm Eng.Mamdouh Alfarra</h1>
 <h3 align="center">A passionate Software Development Engineer from Palestine.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mafarra&label=Profile%20views&color=0e75b6&style=flat" alt="mafarra" /> </p>
+</a>
+  <a href="https://github.com/EddieHubCommunity" target="_blank" rel="noopener noreferrer">
+    <img src="https://forthebadge.com/images/badges/built-by-developers.svg" alt="built by developers badge" />
+ </a>
+</p>
 
 - 🔭 I’m currently working on **JobMe app private work**
 
